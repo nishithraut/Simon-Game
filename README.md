@@ -27,4 +27,3 @@ A simple and interactive **Simon Says** game built using JavaScript, HTML, and C
 
 ---
 
-## 📂 File Structure
